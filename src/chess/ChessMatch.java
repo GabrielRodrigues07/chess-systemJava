@@ -73,6 +73,5 @@ public class ChessMatch {
 
 	        placeNewPiece('a', 8, new Rook(board, Color.BLACK));
 	        placeNewPiece('h', 8, new Rook(board, Color.BLACK));
-	     
 	}
 }
